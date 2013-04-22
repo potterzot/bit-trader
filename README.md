@@ -34,6 +34,12 @@ Initializing the API::
     trader = bt.platform(keys, exchange)
 
 
+Donations
+=========
+If you find this software useful please donate to: 17GRViZR6kqcTpHJrh1e7eEsZkvngUtaZK
+
+
+
 License
 =======
 

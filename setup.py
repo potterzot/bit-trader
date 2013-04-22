@@ -5,7 +5,7 @@ setup(
     version='0.1.0',
     author='Nicholas Potter',
     author_email='potter.nichoas@gmail.com',
-    packages=['bittrader', 'bittrader.test'],
+    packages=['bittrader', 'bittrader.lib', 'bittrader.test'],
     #scripts=['bin/bittrader.py'],
     url='http://pypi.python.org/pypi/BitTrader/',
     license='LICENSE.txt',
